@@ -55,11 +55,25 @@ public class AESTest {
 	public void testEncryptAndDecrypt() throws Exception {
 
         String message = "this is a plain text. 这是一段文本。";
-        byte[] key = AESUtil.generateKey();
+//        byte[] key = AESUtil.generateKey();
+        byte[] key = {-81, -6, -54, -4, 27, 96, 72, -99, -28, -11, -8, 78, 116, 101, -6, -4};
         byte[] iv = key;//use key as iv
-        byte[] data = message.getBytes();
+
+
+        System.out.println("key:" + Arrays.toString(key));
+
+        //长度测试（可以支持任意长度）
+//        StringBuilder sb = new StringBuilder();
+//        for (int i = 0; i < 3173; i++) {
+//            char a  = (char) ('A' + i % 26);
+//            sb.append(a);
+//        }
+//
+//        message = sb.toString();
+//        System.out.println(sb.toString());
 
         //加密
+        byte[] data = message.getBytes();
         byte[] result = AESUtil.encrypt(data,key,iv);
         System.out.println("LEN:"+result.length);
         System.out.println(Arrays.toString(result));

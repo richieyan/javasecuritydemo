@@ -54,7 +54,8 @@ public class RSAUtil {
         return privateKey;
     }
 
-    public static String RSA_ECB_PCKS1Padding = "RSA/ECB/PKCS1Padding";
+//    public static String RSA_ECB_PCKS1Padding = "RSA/ECB/PKCS1Padding";
+    public static String RSA_ECB_PCKS1Padding = "RSA/ECB/NoPadding";
 
     private static Cipher getCipher() {
         try {

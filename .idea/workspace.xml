@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" name="Default" comment="" />
+    <list default="true" id="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/lexuetang/AESTest.java" afterPath="$PROJECT_DIR$/src/test/java/lexuetang/AESTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/lexuetang/RSATest.java" afterPath="$PROJECT_DIR$/src/test/java/lexuetang/RSATest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lexuetang/RSAUtil.java" afterPath="$PROJECT_DIR$/src/main/java/lexuetang/RSAUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="javasecuritydemo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" time="1376215705723" ignored="false" />
-    <file path="/RSATest.java" changelist="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" time="1376211280572" ignored="false" />
+    <file path="/Dummy.txt" changelist="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" time="1378023162558" ignored="false" />
+    <file path="/RSATest.java" changelist="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" time="1378026707847" ignored="false" />
     <file path="$PROJECT_DIR$/../../Dev/bubble/bubble-server/bubble-service/src/main/java/com/happyelements/bubble/util/RSAUtil.java" changelist="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" time="1376198928825" ignored="false" />
     <file path="/AESUtil.java" changelist="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" time="1376213817121" ignored="false" />
-    <file path="/AESTest.java" changelist="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" time="1376213405171" ignored="false" />
+    <file path="/AESTest.java" changelist="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" time="1378025091566" ignored="false" />
     <file path="/fragment.java" changelist="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" time="1376210200026" ignored="false" />
+    <file path="/RSAUtil.java" changelist="77c24fed-fcf9-47d4-b17f-8e226b6dbd23" time="1378026733783" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +30,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -78,6 +83,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -90,7 +96,16 @@
       <file leaf-file-name="AESUtil.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lexuetang/AESUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.0">
+            <state line="41" column="64" selection-start="1376" selection-end="1389" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RSATest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lexuetang/RSATest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="102" column="36" selection-start="3883" selection-end="3883" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -99,43 +114,16 @@
       <file leaf-file-name="AESTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/lexuetang/AESTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="10" selection-start="1862" selection-end="1862" vertical-scroll-proportion="0.0">
+            <state line="57" column="45" selection-start="1853" selection-end="1853" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FrameworkMethod.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="48" selection-start="1327" selection-end="1327" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReflectiveCallable.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RSATest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lexuetang/RSATest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="5" selection-start="4560" selection-end="4560" vertical-scroll-proportion="0.69684213">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RSAUtil.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="RSAUtil.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/lexuetang/RSAUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="46" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
+            <state line="62" column="69" selection-start="2154" selection-end="2154" vertical-scroll-proportion="0.7022587">
               <folding />
             </state>
           </provider>
@@ -159,10 +147,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lexuetang/RSAUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lexuetang/RSATest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lexuetang/AESTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/lexuetang/AESUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lexuetang/AESTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lexuetang/RSATest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lexuetang/RSAUtil.java" />
       </list>
     </option>
   </component>
@@ -330,29 +318,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.AESTest.testDecrypt">
-    <configuration default="false" name="RSATest.testReadPrivateKey" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="javasecuritydemo" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lexuetang" />
-      <option name="MAIN_CLASS_NAME" value="lexuetang.RSATest" />
-      <option name="METHOD_NAME" value="testReadPrivateKey" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.RSATest.testEncryptAndDecrypt">
     <configuration default="false" name="RSATest.testEncryptAndDecrypt" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="javasecuritydemo" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -371,7 +337,13 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -430,6 +402,34 @@
       <option name="PACKAGE_NAME" value="lexuetang" />
       <option name="MAIN_CLASS_NAME" value="lexuetang.AESTest" />
       <option name="METHOD_NAME" value="testDecrypt" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AESTest.testEncryptAndDecrypt" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="javasecuritydemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lexuetang" />
+      <option name="MAIN_CLASS_NAME" value="lexuetang.AESTest" />
+      <option name="METHOD_NAME" value="testEncryptAndDecrypt" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -529,19 +529,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.RSATest.testReadPrivateKey" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.RSATest.testEncryptAndDecrypt" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RSATest.testReadPublicKey" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RSATest.testDecrypt" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.AESTest.testDecrypt" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.RSATest.testEncryptAndDecrypt" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.RSATest.testReadPublicKey" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.RSATest.testDecrypt" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.AESTest.testDecrypt" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.AESTest.testEncryptAndDecrypt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.AESTest.testDecrypt" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RSATest.testDecrypt" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.RSATest.testReadPublicKey" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RSATest.testReadPrivateKey" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RSATest.testEncryptAndDecrypt" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RSATest.testEncryptAndDecrypt" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AESTest.testEncryptAndDecrypt" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AESTest.testDecrypt" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RSATest.testDecrypt" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.RSATest.testReadPublicKey" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -561,27 +561,27 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="60" y="22" width="1380" height="878" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39973614" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298351" sideWeight="0.6789474" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962519" sideWeight="0.6789474" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32105264" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962519" sideWeight="0.6794195" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32058048" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="160" y="122" width="1180" height="678" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28496042" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -689,9 +689,7 @@
     </entry>
     <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/src.jar!/src/java/security/KeyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="304" column="0" selection-start="10135" selection-end="10181" vertical-scroll-proportion="0.21917808">
-          <folding />
-        </state>
+        <state line="304" column="0" selection-start="10135" selection-end="10181" vertical-scroll-proportion="0.21917808" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
@@ -718,30 +716,30 @@
         <state line="297" column="13" selection-start="11135" selection-end="11338" vertical-scroll-proportion="0.34979424" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lexuetang/RSAUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="46" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lexuetang/AESUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.0">
+        <state line="41" column="64" selection-start="1376" selection-end="1389" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/lexuetang/AESTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="10" selection-start="1862" selection-end="1862" vertical-scroll-proportion="0.0">
+        <state line="57" column="45" selection-start="1853" selection-end="1853" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/lexuetang/RSATest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="5" selection-start="4560" selection-end="4560" vertical-scroll-proportion="0.69684213">
+        <state line="102" column="36" selection-start="3883" selection-end="3883" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lexuetang/RSAUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="69" selection-start="2154" selection-end="2154" vertical-scroll-proportion="0.7022587">
           <folding />
         </state>
       </provider>
